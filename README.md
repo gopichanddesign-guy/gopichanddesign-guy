@@ -34,9 +34,6 @@ Figma, Figma AI, Sketch, Framer, Adobe Creative Suite, Jira, Asana, ChatGPT, Cla
 ### Certifications
 Google UX Design Professional Certificate · Mobile Accessibility Design (Udemy)
 
-### Education
-B.Tech in Computer Science — SCSVMV University (2017–2021)
-
 ---
 
 **Currently:** designing and building a customer engagement product end-to-end — UX, frontend, and backend.
